@@ -1,4 +1,4 @@
-# Cyber Lab — Network Analysis
+# Cyber Lab : Network Analysis
 
 ## Stack
 Kali Linux 2026.1 · Nmap · Wireshark · VirtualBox
