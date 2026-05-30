@@ -61,4 +61,4 @@ Email personnel trouvé dans une fuite de données :
 ## Fichiers
 - `dnsdumpster-1.png` : vue globale infrastructure
 - `dnsdumpster-2.png` : sous-domaines sensibles
-- `hibp-results.png` : résultat Have I Been Pwned
+- `hibp-1.png` et `hibp-2.png` : résultat Have I Been Pwned
