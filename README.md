@@ -16,15 +16,21 @@ Scan du réseau local, détection de services et versions sur deux cibles.
 ### 2. Analyse de trafic avec Wireshark
 Capture de trafic ICMP et DNS, filtrage par protocole.
 
-### 3. Exploitation — CVE-2011-2523 (vsFTPd 2.3.4 backdoor)
+### 3. Exploitation - CVE-2011-2523 (vsFTPd 2.3.4 backdoor)
 Détection de la faille via Nmap scripting engine, exploitation avec Metasploit,
 obtention d'un accès root sur la cible.
 
 ### 4. Post-exploitation
 Extraction de /etc/shadow, cassage de hash MD5 avec John the Ripper.
 
+### 5. OSINT - Reconnaissance passive
+Cartographie de l'infrastructure laposte.net via DNSDumpster (66 sous-domaines identifiés,
+environnements dev/test exposés, infrastructure email des mairies).
+Vérification des fuites de données via Have I Been Pwned (fuite Pass'Sport déc. 2025).
+
 ## Contenu
 | Dossier | Description |
 |--------|-------------|
 | `/nmap` | Scans de reconnaissance et détection de vulnérabilités |
 | `/writeups` | Rapports détaillés d'exploitation |
+| `/osint` | Reconnaissance passive - DNSDumpster, HIBP |
