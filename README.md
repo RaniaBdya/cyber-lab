@@ -28,6 +28,11 @@ Cartographie de l'infrastructure laposte.net via DNSDumpster (66 sous-domaines i
 environnements dev/test exposés, infrastructure email des mairies).
 Vérification des fuites de données via Have I Been Pwned (fuite Pass'Sport déc. 2025).
 
+## Avertissement légal
+Tous les tests ont été réalisés sur des machines 
+virtuelles personnelles dans un environnement isolé. 
+Aucun système tiers n'a été ciblé.
+
 ## Contenu
 | Dossier | Description |
 |--------|-------------|
