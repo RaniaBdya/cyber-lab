@@ -42,3 +42,7 @@ services et données accessibles sans restriction.
 2. Remplacer FTP par SFTP (chiffré)
 3. Imposer une politique de mots de passe forts
 4. Désactiver les services inutiles
+
+## Environnement
+Test réalisé sur Metasploitable2 dans un réseau 
+virtuel isolé. Aucun système tiers ciblé.
