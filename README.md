@@ -23,10 +23,6 @@ obtention d'un accès root sur la cible.
 ### 4. Post-exploitation
 Extraction de /etc/shadow, cassage de hash MD5 avec John the Ripper.
 
-### 5. OSINT - Reconnaissance passive
-Cartographie de l'infrastructure laposte.net via DNSDumpster (66 sous-domaines identifiés,
-environnements dev/test exposés, infrastructure email des mairies).
-Vérification des fuites de données via Have I Been Pwned (fuite Pass'Sport déc. 2025).
 
 ## Avertissement légal
 Tous les tests ont été réalisés sur des machines 
