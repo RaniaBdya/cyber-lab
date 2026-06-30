@@ -34,4 +34,4 @@ Aucun système tiers n'a été ciblé.
 |--------|-------------|
 | `/nmap` | Scans de reconnaissance et détection de vulnérabilités |
 | `/writeups` | Rapports détaillés d'exploitation |
-| `/osint` | Reconnaissance passive - DNSDumpster, HIBP |
+
